@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login
+Type in the mobile number &amp; PIN to login
+Click on Teams Tab to load the data
+Click on the Assign Route button
+Select Sales Depot from the drop down list
+Select Sales Route from the drop down list
+Type name of sales rep
+Click assign route button</description>
+   <name>Route</name>
+   <tag>SALES</tag>
+   <comment></comment>
+   <testCaseGuid>37c51f8d-2149-4d19-8627-56eaaf87a381</testCaseGuid>
+</TestCaseEntity>

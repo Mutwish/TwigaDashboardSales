@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Log in to soko yetu 
+navigate to the farmer tab 
+click on the add farmer button
+enter the farmer details 
+click on the save farmer button</description>
+   <name>Farmer Add</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>0a5c0a6c-db4c-44fa-8cb7-e7c6e88aac67</testCaseGuid>
+</TestCaseEntity>

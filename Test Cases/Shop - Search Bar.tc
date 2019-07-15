@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login
+Type in the mobile number &amp; PIN to login
+Click on Shops Tab to load the data
+Type shop name/shop number or mobile number to search for a shop.
+Click on a search record to see more details in a separate window
+Click on View on Map
+Click on View Orders
+Click on View Deliveries
+Click on the X red button to clear the search</description>
+   <name>Shop - Search Bar</name>
+   <tag>Sales</tag>
+   <comment></comment>
+   <testCaseGuid>c2266c5d-f994-4497-995f-86527d68f73a</testCaseGuid>
+</TestCaseEntity>

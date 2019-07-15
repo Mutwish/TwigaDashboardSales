@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Choose the dates to view the data
+Serch data using produce, area and collection centre
+click on the the cards on the overview card to view more details</description>
+   <name>Calendar</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>5fe0f24a-e1d2-4ead-a483-3ae5b1512c61</testCaseGuid>
+</TestCaseEntity>

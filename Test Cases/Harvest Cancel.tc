@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login 
+Type in the mobile number &amp; PIN to login 
+Click on Harvets Tab to load the data 
+Click on a Harvets from the list 
+click on the cancel icon to cance the Harvets and indicate the reason 
+Click on the search filters &quot; booking date, Harvest date, produce, area, collection center&quot; 
+click on the search button to search 
+click on the close icon to close the search 
+click on the page number given below the card</description>
+   <name>Harvest Cancel</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>4a8f8a83-f2ba-4d95-872f-e1ac72c82164</testCaseGuid>
+</TestCaseEntity>

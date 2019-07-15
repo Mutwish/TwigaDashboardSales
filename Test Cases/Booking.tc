@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser 
+Type in the address https://portal.twiga.tech/login 
+Type in the mobile number &amp; PIN to login 
+Click on Booking Tab to load the data 
+Click on a booking from the list</description>
+   <name>Booking</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>e91f55a5-d242-4f76-b814-e4b27de28dbf</testCaseGuid>
+</TestCaseEntity>

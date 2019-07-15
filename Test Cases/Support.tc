@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login
+User can click on the support button at the top bottom right corner 
+User can type their issue in the text box
+User can add photos and files under the attachment section
+User can click send to submit the issue</description>
+   <name>Support</name>
+   <tag>Sales</tag>
+   <comment></comment>
+   <testCaseGuid>3acba269-c6a0-4058-975d-cb6f45a87028</testCaseGuid>
+</TestCaseEntity>

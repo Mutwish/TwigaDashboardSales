@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser 
+Type in the address https://portal.twiga.tech/login 
+Type in the mobile number &amp; PIN to login
+Click on Harvets Tab to load the data 
+Click on a Harvets from the list</description>
+   <name>Harvest View</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>d72fa438-2844-47f8-8dbe-25a1dae42834</testCaseGuid>
+</TestCaseEntity>

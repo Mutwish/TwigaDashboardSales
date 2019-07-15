@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login</description>
+   <name>Homepage</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>4b649522-e54d-4f0e-85b7-f2a461ca1ac2</testCaseGuid>
+</TestCaseEntity>

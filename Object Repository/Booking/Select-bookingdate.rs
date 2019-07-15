@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select-bookingdate</name>
+   <tag></tag>
+   <elementGuidId>585e7e87-530b-470b-8b87-7110c7fdf78c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div/div/div/div/div[2]/div[2]/table/tbody/tr[4]/td[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div/div/div/div/div[2]/div[2]/table/tbody/tr[4]/td[2]/div</value>
+   </webElementProperties>
+</WebElementEntity>

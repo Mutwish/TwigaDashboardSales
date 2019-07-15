@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login
+Type in the mobile number &amp; PIN to login
+Click on Booking Tab to load the data
+Click on a booking from the list
+Click on the serch filters &quot; ooking date, Harvest date, produce, area, collection center&quot;
+click on the searsh button to search
+click on the close icon to close the search
+click on the page number given below the card</description>
+   <name>Booking Search</name>
+   <tag>Sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>abd528f0-f9d0-4a8a-9bda-7f4ce43b7111</testCaseGuid>
+</TestCaseEntity>

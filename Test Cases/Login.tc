@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the browser
+Type in the address https://portal.twiga.tech/login
+Type in the mobile number registered on DMS
+Enter PIN
+Click Login to access the dashboard</description>
+   <name>Login</name>
+   <tag>SALES</tag>
+   <comment></comment>
+   <testCaseGuid>8020a1df-0afe-4c62-adf9-c104be54d5ba</testCaseGuid>
+</TestCaseEntity>

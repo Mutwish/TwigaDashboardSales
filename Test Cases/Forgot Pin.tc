@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch the app. 
+Click on Forgot your PIN link
+Enter your phone number and click continue.
+Once the new PIN has been sent, go back to home page and re-enter mobile number and PIN.</description>
+   <name>Forgot Pin</name>
+   <tag>Sales, sourcing</tag>
+   <comment></comment>
+   <testCaseGuid>d530a0f3-a224-42b1-a6fc-13d0bdff0c7b</testCaseGuid>
+</TestCaseEntity>
